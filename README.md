@@ -1,16 +1,13 @@
-## Hi there 👋
+## Hi everyone 👋
 
-<!--
-**sahilsharma19072002/sahilsharma19072002** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm **[Sahil Sharma]**
 
-Here are some ideas to get you started:
+- 🔭 I’m currently Studying
+- 🌱 I’m currently Java and DSA Using Java
+- 👯 I’m looking to collaborate on Open Source Projects
+- 📫 How to reach me: Only Email
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: Nothing Funny About Me (Ha Ha Ha)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+⭐️ From [Sahil Sharma](https://github.com/sahilsharma19072002)
